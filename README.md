@@ -246,4 +246,4 @@ This repository serves as the official landing page for Format Factory. The soft
 **Get the most recent version of Format Factory today!**
 
 ---
-**Last updated:** 2026-10-01 21:44:17 UTC
+**Last updated:** 2026-10-02 01:31:39 UTC
